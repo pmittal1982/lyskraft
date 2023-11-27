@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "metaltradingplatform",
+  "private_key_id": "3610ca559d78688ffe3abeadb139cee8a4cfaede",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2k0genCnEl6Yl\nDOKI5HO191uxGOJ1rkJEJO32PwDTbFXZamfk0H5WmwFWlrqnKODyTYoJY6NShuTt\nSQuO16KwpHLq2JbMIjBnGt3ZcR4yBbKbzqutPc3NW78kjn+jevaOiBP75HBjHCad\n2IIH0O0ejAb9eJFw0tnj2L/HM3GnIqBP/7y3h+WgfAdLBIqvyJKV016wQv/ni4X2\nXh04VDMy4/jZMzTXs+IOw7QT/ZNeIf8jkrpSkV5AurubJn66PskAZSD5kwXiyOKx\nlIRxm195sFHCy9xB3LUaUg0qiJgKe0hfgwHO7S/Qk+kADNKjGoD/MDsWi5iPnnUp\nkXU/9AzxAgMBAAECggEACW0/OHfiEvTMyv3QYkav6AfDnegx1KdMw/uXZwsLnA78\nW4WCQ+LlPAvksLune2cpnq8k2v1gVtvwzOTkLjHZdEcIaTJpzlRPVRqCtQYBe+4W\nAdQU4oT19+YGX3EFW3u3SGaTqBJMYHypDIY72AMYRCcRGxQnJ8j2P7y+sa6I/irt\n4h0gD5Xp7j3L1xGDDyghKAsAQYcckk2BfKMu1T2Zay1TIXOM3ungMqWkT6EqIUL1\njOsPMGro2sVdzfQIsL5sl5lqwv0BuL2qXGYgIMGF7+5cc7nK4dVHTYOuDOy3zRAv\nqdXxpZ6QYDBRWSNADayTFf1gyL6ChhJCqD8fB6S0oQKBgQDae/VAUG1PGyWd2fqP\nTuLr/rmoX72rQCl9tVmqzamwVS0VxoD+qt80bCjDI5XOuLi3mgvItq2uW2l/9dU9\ngwAkbOZfyVTwdJH0WOLtmRpDD8YMYv1foKjEWfb1I1LeQQ8iGhAGlrXzBzWaw5kS\nH8nmFTm0vTTXRCoxGgNHNgHGoQKBgQDV7NrczudLCgl15tM1QWaxfE/HFElPdYaP\nkd1jTkb0/RVEIEbOL6/eZbrWXSfQ3rGYdXJgaUFIsveCvwAE/2JdNqSY1+8CUsGA\nzIMUJwRxFD9Emzz5/STRddoR6ngjSzj7B0lJo9PY0sqnasJjwJcD0C6JGeKenrks\no/fUPtu0UQKBgDR2mZCk/2qEcUbzRchNwA29L+Wvf8L0eEIYXvy1v+54tYfKD8WX\nUFutMSiSjfGCx9BGrFe5DgGVL8MrS9Ymc81LXRJZLQ1EYJvVEEDPh8/cpMjqqD7j\nPENR+wwoPEjkRHcC3SBH5k8CRyvvlf0VJw0Zwa6V1G9wjdUWkvzxigGhAoGBAMHs\n7xKP9ZhOxvi8gOacHQ30FRXxS+veLFdl8X2ebjCUZHzXjZhIHnPLYK4G0JtF5VTB\n0yeXAvl2U22Q2+Gr6W16pYdw6FgA0S2DN6hDHoGryxbUa1hrpL7EySTImpPUExlt\nJ4C8JMU/gTp3SzTGV5+7TxQ2BPuqA092bKlZOi2hAoGBAIHuMxwOXnxZUkoLPp/U\nY83zsZJ05592Davw9rqjBOZuCRaGQDGbUu/7D21SNsE1taAVJ4MmbXyl9RXDVTbS\ncRRO9b4MzPw4sbc2BCuzA4eGdHmQ4goTKLDNUPp7ARkKeEqsA/E3UJctoaSSA/4I\nWyz9OytxlA409QVDBTIHgpxG\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-9y0dc@metaltradingplatform.iam.gserviceaccount.com",
+  "client_id": "103956098602931042294",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-9y0dc%40metaltradingplatform.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
